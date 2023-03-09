@@ -8,7 +8,6 @@
 *.obj
 
 
-*.log
 # Precompiled Headers
 *.gch
 *.pch
@@ -77,3 +76,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
