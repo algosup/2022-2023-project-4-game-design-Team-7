@@ -12,3 +12,5 @@ DerivedDataCache
 # *.suo
 # *.xcodeproj
 # *.xcworkspace
+Saved/Config/CrashReportClient/*
+Saved/Logs/*
