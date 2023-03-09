@@ -1235,3 +1235,347 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.09-13.41.00:883][640]LogFileHelpers: Saving map 'Maptest' took 0.037
 [2023.03.09-13.41.00:908][641]AssetCheck: New page: Asset Save: Maptest
 [2023.03.09-13.41.00:908][641]LogContentValidation: Display: Validating World /Game/Maps/Maptest.Maptest
+[2023.03.09-13.44.46:103][454]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2023.03.09-13.44.53:174][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.45.01:001][208]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube35)
+[2023.03.09-13.45.05:670][684]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.45.06:244][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.45.43:952][216]LogStaticMesh: Building static mesh SM_MERGED_Floor...
+[2023.03.09-13.45.44:156][216]LogStaticMesh: Built static mesh [0.20s] /Game/Blueprints/SM_MERGED_Floor.SM_MERGED_Floor
+[2023.03.09-13.45.44:302][216]LogActorFactory: Actor Factory created SM_MERGED_Floor
+[2023.03.09-13.45.52:597][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.45.56:794][666]LogActorFactory: Actor Factory created Cube
+[2023.03.09-13.45.59:336][971]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.45.59:947][ 21]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.09-13.46.01:604][200]LogSlate: Window 'Asset Audit' being destroyed
+[2023.03.09-13.46.01:608][200]LogSlate: Window 'Asset Audit' being destroyed
+[2023.03.09-13.46.40:993][909]LogActorFactory: Actor Factory created Cube
+[2023.03.09-13.46.41:537][974]LogActorFactory: Actor Factory created Cube
+[2023.03.09-13.46.48:222][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.46.51:133][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.47.08:223][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.47.12:281][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.47.14:375][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.47.15:975][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.47.25:970][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.47.35:786][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.47.36:384][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.47.41:686][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.47.43:244][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.47.48:052][815]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.47.48:637][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.47.49:312][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.47.50:529][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.48.02:371][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.48.08:616][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.48.10:451][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.48.18:466][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2023.03.09-13.48.19:225][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.48.23:344][956]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.48.29:339][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2023.03.09-13.49.13:775][972]LogActorFactory: Actor Factory created Cylinder
+[2023.03.09-13.49.15:320][157]LogActorFactory: Actor Factory created Cylinder
+[2023.03.09-13.49.19:251][617]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.49.19:927][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2023.03.09-13.49.29:984][882]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.49.30:826][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2023.03.09-13.49.42:701][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.49.43:611][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2023.03.09-13.50.05:952][135]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.50.08:153][397]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.50.08:901][483]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.50.12:533][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2023.03.09-13.50.19:452][722]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.51.15:214][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.03.09-13.51.15:234][350]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Maptest_Auto3D34C784C471BB168DAB00C827025EC4C.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Autosaves/Game/Maps/Maptest_Auto3.umap'
+[2023.03.09-13.51.15:235][350]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Maptest' took 0.039
+[2023.03.09-13.51.15:235][350]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2023.03.09-13.52.29:910][113]LogSlate: Window 'New Level' being destroyed
+[2023.03.09-13.52.35:332][113]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-13.52.35:358][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maptest" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-13.52.35:374][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.03.09-13.52.35:393][113]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Maptest8E9DD12C4AF9D642059910AE425F9DF1.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap'
+[2023.03.09-13.52.35:402][113]LogFileHelpers: Saving map 'Maptest' took 0.043
+[2023.03.09-13.52.35:407][113]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-13.52.35:433][113]LightingResults: New page: Lighting Build
+[2023.03.09-13.52.35:433][113]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.03.09-13.52.35:439][113]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.52.35:439][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.52.35:472][113]LogWorld: UWorld::CleanupWorld for Maptest, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.52.35:472][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.52.35:472][113]MapCheck: New page: Map Check
+[2023.03.09-13.52.35:472][113]LightingResults: New page: Lighting Build
+[2023.03.09-13.52.35:483][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-13.52.35:489][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.03.09-13.52.35:498][113]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.03.09-13.52.35:500][113]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2023.03.09-13.52.35:500][113]LogAIModule: Creating AISystem for world Untitled_2
+[2023.03.09-13.52.35:502][113]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-13.52.35:517][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.03.09-13.52.35:537][113]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-13.52.35:537][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2023.03.09-13.52.35:537][113]LogFileHelpers: Loading map 'Template_Default' took 0.131
+[2023.03.09-13.52.35:543][113]AssetCheck: New page: Asset Save: Maptest
+[2023.03.09-13.52.35:543][113]LogContentValidation: Display: Validating World /Game/Maps/Maptest.Maptest
+[2023.03.09-13.52.44:035][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.09-13.52.44:059][ 82]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Maptest.Maptest
+[2023.03.09-13.52.44:059][ 82]Cmd: MAP LOAD FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-13.52.44:059][ 82]LightingResults: New page: Lighting Build
+[2023.03.09-13.52.44:059][ 82]LoadErrors: New page: Loading map: Maptest.umap
+[2023.03.09-13.52.44:093][ 82]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.52.44:093][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.52.44:093][ 82]MapCheck: New page: Map Check
+[2023.03.09-13.52.44:093][ 82]LightingResults: New page: Lighting Build
+[2023.03.09-13.52.44:108][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-13.52.44:129][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.03.09-13.52.44:129][ 82]LogAudio: Display: Audio Device (ID: 1) registered with world 'Maptest'.
+[2023.03.09-13.52.44:135][ 82]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-13.52.44:135][ 82]LogAIModule: Creating AISystem for world Maptest
+[2023.03.09-13.52.44:147][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.03.09-13.52.44:155][ 82]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-13.52.44:155][ 82]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.055ms to complete.
+[2023.03.09-13.52.44:155][ 82]LogFileHelpers: Loading map 'Maptest' took 0.096
+[2023.03.09-13.52.46:333][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.03.09-13.52.46:372][337]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Main.Main
+[2023.03.09-13.52.46:372][337]Cmd: MAP LOAD FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-13.52.46:372][337]LightingResults: New page: Lighting Build
+[2023.03.09-13.52.46:372][337]LoadErrors: New page: Loading map: Main.umap
+[2023.03.09-13.52.46:374][337]LogWorld: UWorld::CleanupWorld for Maptest, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.52.46:374][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.52.46:374][337]MapCheck: New page: Map Check
+[2023.03.09-13.52.46:374][337]LightingResults: New page: Lighting Build
+[2023.03.09-13.52.46:385][337]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-13.52.46:387][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.03.09-13.52.46:387][337]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2023.03.09-13.52.46:391][337]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-13.52.46:391][337]LogAIModule: Creating AISystem for world Main
+[2023.03.09-13.52.46:404][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.03.09-13.52.46:412][337]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-13.52.46:412][337]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2023.03.09-13.52.46:412][337]LogFileHelpers: Loading map 'Main' took 0.039
+[2023.03.09-13.52.47:833][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.09-13.52.47:869][504]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Maptest.Maptest
+[2023.03.09-13.52.47:869][504]Cmd: MAP LOAD FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-13.52.47:869][504]LightingResults: New page: Lighting Build
+[2023.03.09-13.52.47:869][504]LoadErrors: New page: Loading map: Maptest.umap
+[2023.03.09-13.52.47:893][504]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.52.47:893][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.52.47:893][504]MapCheck: New page: Map Check
+[2023.03.09-13.52.47:893][504]LightingResults: New page: Lighting Build
+[2023.03.09-13.52.47:904][504]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-13.52.47:908][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.03.09-13.52.47:908][504]LogAudio: Display: Audio Device (ID: 1) registered with world 'Maptest'.
+[2023.03.09-13.52.47:913][504]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-13.52.47:913][504]LogAIModule: Creating AISystem for world Maptest
+[2023.03.09-13.52.47:926][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.03.09-13.52.47:934][504]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-13.52.47:934][504]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2023.03.09-13.52.47:934][504]LogFileHelpers: Loading map 'Maptest' took 0.064
+[2023.03.09-13.53.31:555][577]LogSlate: Window 'New Level' being destroyed
+[2023.03.09-13.53.31:559][577]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-13.53.31:579][577]LightingResults: New page: Lighting Build
+[2023.03.09-13.53.31:579][577]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.03.09-13.53.31:581][577]LogWorld: UWorld::CleanupWorld for Maptest, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.53.31:581][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.53.31:581][577]MapCheck: New page: Map Check
+[2023.03.09-13.53.31:581][577]LightingResults: New page: Lighting Build
+[2023.03.09-13.53.31:591][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-13.53.31:594][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.03.09-13.53.31:603][577]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.03.09-13.53.31:605][577]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2023.03.09-13.53.31:605][577]LogAIModule: Creating AISystem for world Untitled_3
+[2023.03.09-13.53.31:607][577]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-13.53.31:620][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.09-13.53.31:647][577]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-13.53.31:648][577]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2023.03.09-13.53.31:648][577]LogFileHelpers: Loading map 'Template_Default' took 0.089
+[2023.03.09-13.53.31:764][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.03.09-13.53.40:562][846]LogSlate: Window 'Save Level As' being destroyed
+[2023.03.09-13.53.40:666][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-13.53.40:677][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.03.09-13.53.40:684][846]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Tutorial0496668741D57567A4628684DEDB21E4.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial.umap'
+[2023.03.09-13.53.40:693][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_BuiltData" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial_BuiltData.uasset" SILENT=true
+[2023.03.09-13.53.40:703][846]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Tutorial_BuiltData99CC87FB4A2E9A6D13F81482137CF9C4.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial_BuiltData.uasset'
+[2023.03.09-13.53.40:719][846]LogFileHelpers: Saving map 'Tutorial' took 0.151
+[2023.03.09-13.53.40:725][846]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-13.53.40:725][846]LogContentValidation: Display: Validating World /Game/Maps/Tutorial.Tutorial
+[2023.03.09-13.53.40:725][846]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Tutorial_BuiltData.Tutorial_BuiltData
+[2023.03.09-13.54.03:094][450]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.54.04:964][668]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-13.54.07:131][920]Cmd: TRANSACTION UNDO
+[2023.03.09-13.54.07:131][920]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2023.03.09-13.54.09:857][194]Cmd: TRANSACTION UNDO
+[2023.03.09-13.54.09:857][194]LogEditorTransaction: Undo Create Actors
+[2023.03.09-13.54.30:748][674]Cmd: TRANSACTION UNDO
+[2023.03.09-13.54.30:748][674]LogEditorTransaction: Undo Move Actors
+[2023.03.09-13.54.34:824][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-13.54.34:885][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.03.09-13.54.34:893][102]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Tutorial152CC70F49B7DD897D9379A3BE0EA4C2.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial.umap'
+[2023.03.09-13.54.34:901][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_BuiltData" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial_BuiltData.uasset" SILENT=true
+[2023.03.09-13.54.34:909][102]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Tutorial_BuiltDataA74277A543EFC0C080D1E1B4192F9511.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial_BuiltData.uasset'
+[2023.03.09-13.54.34:920][102]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-13.54.34:920][102]LogContentValidation: Display: Validating World /Game/Maps/Tutorial.Tutorial
+[2023.03.09-13.54.34:920][102]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Tutorial_BuiltData.Tutorial_BuiltData
+[2023.03.09-13.54.36:241][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-13.54.36:277][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.03.09-13.54.36:283][259]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Tutorial9225E7334CAF5E9DAB07FCB1A34F05D1.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial.umap'
+[2023.03.09-13.54.36:293][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial_BuiltData" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial_BuiltData.uasset" SILENT=true
+[2023.03.09-13.54.36:302][259]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Tutorial_BuiltDataDD84FCB0447475F5B2816490C1272259.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial_BuiltData.uasset'
+[2023.03.09-13.54.36:312][259]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-13.54.36:312][259]LogContentValidation: Display: Validating World /Game/Maps/Tutorial.Tutorial
+[2023.03.09-13.54.36:312][259]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Tutorial_BuiltData.Tutorial_BuiltData
+[2023.03.09-13.54.40:447][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.09-13.54.40:486][739]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Maptest.Maptest
+[2023.03.09-13.54.40:486][739]Cmd: MAP LOAD FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-13.54.40:486][739]LightingResults: New page: Lighting Build
+[2023.03.09-13.54.40:486][739]LoadErrors: New page: Loading map: Maptest.umap
+[2023.03.09-13.54.40:512][739]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.54.40:512][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.54.40:512][739]MapCheck: New page: Map Check
+[2023.03.09-13.54.40:512][739]LightingResults: New page: Lighting Build
+[2023.03.09-13.54.40:522][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-13.54.40:526][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.03.09-13.54.40:526][739]LogAudio: Display: Audio Device (ID: 1) registered with world 'Maptest'.
+[2023.03.09-13.54.40:531][739]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-13.54.40:531][739]LogAIModule: Creating AISystem for world Maptest
+[2023.03.09-13.54.40:543][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.09-13.54.40:551][739]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-13.54.40:551][739]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2023.03.09-13.54.40:551][739]LogFileHelpers: Loading map 'Maptest' took 0.065
+[2023.03.09-13.54.41:595][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2023.03.09-13.54.42:315][943]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder)
+[2023.03.09-13.55.35:405][155]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.09-13.55.35:408][155]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.09-13.55.36:634][155]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.09-13.55.36:641][155]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.09-13.55.36:674][155]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.09-13.55.49:790][723]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EndPipe
+[2023.03.09-13.55.49:794][723]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.09-13.56.44:872][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_EndPipe.BP_EndPipe
+[2023.03.09-14.01.07:915][348]BlueprintLog: New page: Compile BP_EndPipe
+[2023.03.09-14.01.07:941][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.03.09-14.01.10:504][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maptest" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-14.01.10:519][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.09-14.01.10:535][645]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/MaptestD131AF67407AEE5E0860CDBD5B896F83.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap'
+[2023.03.09-14.01.10:544][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maptest_BuiltData" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest_BuiltData.uasset" SILENT=true
+[2023.03.09-14.01.10:572][645]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Maptest_BuiltData468A9E66496EEFFEB356018B0EF7E96E.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest_BuiltData.uasset'
+[2023.03.09-14.01.10:583][645]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-14.01.10:583][645]LogContentValidation: Display: Validating World /Game/Maps/Maptest.Maptest
+[2023.03.09-14.01.10:583][645]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maptest_BuiltData.Maptest_BuiltData
+[2023.03.09-14.01.11:900][801]LogTemp: Repeating last play command: Standalone Game
+[2023.03.09-14.01.11:919][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.09-14.01.16:073][801]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-14.01.16:078][801]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2023.03.09-14.01.16:078][801]PIE: Warning: PIE failed because map save was canceled
+[2023.03.09-14.01.18:102][ 14]LogSlate: Window 'Message Log' being destroyed
+[2023.03.09-14.01.18:106][ 14]LogSlate: Window 'Message Log' being destroyed
+[2023.03.09-14.01.25:017][833]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder)
+[2023.03.09-14.01.28:803][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2023.03.09-14.01.29:190][296]Cmd: DELETE
+[2023.03.09-14.01.29:212][296]Cmd: ACTOR DELETE
+[2023.03.09-14.01.29:250][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-14.01.29:265][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.09-14.01.29:267][296]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.03.09-14.01.43:720][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-14.01.44:563][116]LogEditorViewport: Clicking on Actor (LMB): BP_EndPipe_C (BP_EndPipe)
+[2023.03.09-14.01.45:295][202]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.03.09-14.01.46:753][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maptest" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-14.01.46:772][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.03.09-14.01.46:791][367]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Maptest8EDCC90A4B3580B2127006A5CBEA4D61.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap'
+[2023.03.09-14.01.46:800][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maptest_BuiltData" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest_BuiltData.uasset" SILENT=true
+[2023.03.09-14.01.46:814][367]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Maptest_BuiltData24D03A464DFB324F610790A96D727589.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest_BuiltData.uasset'
+[2023.03.09-14.01.46:826][367]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-14.01.46:826][367]LogContentValidation: Display: Validating World /Game/Maps/Maptest.Maptest
+[2023.03.09-14.01.46:826][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maptest_BuiltData.Maptest_BuiltData
+[2023.03.09-14.01.47:918][491]LogTemp: Repeating last play command: Standalone Game
+[2023.03.09-14.01.47:936][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.03.09-14.01.50:207][491]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-14.01.50:246][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EndPipe" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Blueprints/BP_EndPipe.uasset" SILENT=true
+[2023.03.09-14.01.50:253][491]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/BP_EndPipeD21FDD22411CD98E3E01BAAF76CC9274.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Blueprints/BP_EndPipe.uasset'
+[2023.03.09-14.01.50:302][492]AssetCheck: New page: Asset Save: BP_EndPipe
+[2023.03.09-14.01.50:302][492]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_EndPipe.BP_EndPipe
+[2023.03.09-14.04.36:718][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maptest" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-14.04.36:735][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.09-14.04.36:752][342]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/MaptestAB68C2A3415A0A6A252FB19AE4FE5E04.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap'
+[2023.03.09-14.04.36:760][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maptest_BuiltData" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest_BuiltData.uasset" SILENT=true
+[2023.03.09-14.04.36:774][342]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Maptest_BuiltDataF85D38DF48B3F2A1F365C9813D1DD4AE.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest_BuiltData.uasset'
+[2023.03.09-14.04.36:784][342]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-14.04.36:784][342]LogContentValidation: Display: Validating World /Game/Maps/Maptest.Maptest
+[2023.03.09-14.04.36:785][342]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maptest_BuiltData.Maptest_BuiltData
+[2023.03.09-14.05.06:731][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.09-14.05.06:758][878]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Tutorial.Tutorial
+[2023.03.09-14.05.06:758][878]Cmd: MAP LOAD FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-14.05.06:758][878]LightingResults: New page: Lighting Build
+[2023.03.09-14.05.06:758][878]LoadErrors: New page: Loading map: Tutorial.umap
+[2023.03.09-14.05.06:787][878]LogWorld: UWorld::CleanupWorld for Maptest, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-14.05.06:787][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-14.05.06:787][878]MapCheck: New page: Map Check
+[2023.03.09-14.05.06:787][878]LightingResults: New page: Lighting Build
+[2023.03.09-14.05.06:801][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-14.05.06:803][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.03.09-14.05.06:804][878]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial'.
+[2023.03.09-14.05.06:806][878]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-14.05.06:806][878]LogAIModule: Creating AISystem for world Tutorial
+[2023.03.09-14.05.06:822][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.03.09-14.05.06:830][878]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-14.05.06:830][878]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2023.03.09-14.05.06:830][878]LogFileHelpers: Loading map 'Tutorial' took 0.072
+[2023.03.09-14.05.08:006][ 17]LogEditorViewport: Clicking on Actor (LMB): Space_Parasite_C (Space_Parasite)
+[2023.03.09-14.05.08:814][110]Cmd: DELETE
+[2023.03.09-14.05.08:814][110]Cmd: ACTOR DELETE
+[2023.03.09-14.05.08:816][110]LogEditorActor: Deleted Actor: Space_Parasite_C
+[2023.03.09-14.05.08:838][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.09-14.05.08:840][110]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.03.09-14.05.10:395][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.09-14.05.13:203][295]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-14.05.13:230][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tutorial" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-14.05.13:243][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.09-14.05.13:248][295]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Tutorial03C0D6244A57A69B194F20A7F1F4446D.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Tutorial.umap'
+[2023.03.09-14.05.13:257][295]LogFileHelpers: Saving map 'Tutorial' took 0.028
+[2023.03.09-14.05.13:307][295]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Maptest.Maptest
+[2023.03.09-14.05.13:307][295]Cmd: MAP LOAD FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-14.05.13:307][295]LightingResults: New page: Lighting Build
+[2023.03.09-14.05.13:308][295]LoadErrors: New page: Loading map: Maptest.umap
+[2023.03.09-14.05.13:308][295]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-14.05.13:308][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-14.05.13:308][295]MapCheck: New page: Map Check
+[2023.03.09-14.05.13:308][295]LightingResults: New page: Lighting Build
+[2023.03.09-14.05.13:322][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-14.05.13:324][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.09-14.05.13:325][295]LogAudio: Display: Audio Device (ID: 1) registered with world 'Maptest'.
+[2023.03.09-14.05.13:330][295]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-14.05.13:330][295]LogAIModule: Creating AISystem for world Maptest
+[2023.03.09-14.05.13:347][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.03.09-14.05.13:355][295]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-14.05.13:355][295]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2023.03.09-14.05.13:355][295]LogFileHelpers: Loading map 'Maptest' took 0.047
+[2023.03.09-14.05.13:384][295]AssetCheck: New page: Asset Save: Tutorial
+[2023.03.09-14.05.13:384][295]LogContentValidation: Display: Validating World /Game/Maps/Tutorial.Tutorial
+[2023.03.09-14.05.16:007][605]LogTemp: Repeating last play command: Standalone Game
+[2023.03.09-14.05.16:024][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.09-14.06.09:947][  7]LogEditorViewport: Clicking on Actor (LMB): BP_EndPipe_C (BP_EndPipe)
+[2023.03.09-14.06.32:074][631]LogTemp: Repeating last play command: Standalone Game
+[2023.03.09-14.06.32:094][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.03.09-14.06.33:700][631]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-14.06.33:722][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maptest" FILE="D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-14.06.33:736][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.09-14.06.33:751][631]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Maptest0E6BD16643F1D585305FD195EED7D16B.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Content/Maps/Maptest.umap'
+[2023.03.09-14.06.33:759][631]LogFileHelpers: Saving map 'Maptest' took 0.037
+[2023.03.09-14.06.33:782][632]AssetCheck: New page: Asset Save: Maptest
+[2023.03.09-14.06.33:782][632]LogContentValidation: Display: Validating World /Game/Maps/Maptest.Maptest
+[2023.03.09-14.07.30:798][805]LogTemp: Repeating last play command: Standalone Game
+[2023.03.09-14.07.30:817][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.03.09-14.17.03:973][863]LogRenderer: Reallocating scene render targets to support 2428x900 Format 10 NumSamples 1 (Frame:70390).
+[2023.03.09-14.40.33:273][861]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.09-14.40.33:296][861]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.09-14.40.37:940][419]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
+[2023.03.09-14.40.37:941][419]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.09-14.41.21:633][662]Cmd: DELETE
+[2023.03.09-14.41.21:633][662]Cmd: ACTOR DELETE
+[2023.03.09-14.41.21:635][662]LogEditorActor: Deleted Actor: BP_EndPipe_C
+[2023.03.09-14.41.21:653][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.03.09-14.41.21:657][662]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.03.09-14.41.58:381][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.09-14.41.58:399][ 12]LogSavePackage: Moving 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Maptest_Auto4E72968CB46DB0CCCB22638B0561E9464.tmp' to 'D:/PROGRAMMING/unreal/2022-2023-project-4-game-design-Team-7/Saved/Autosaves/Game/Maps/Maptest_Auto4.umap'
+[2023.03.09-14.41.58:399][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Maptest' took 0.032
+[2023.03.09-14.41.58:400][ 12]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
