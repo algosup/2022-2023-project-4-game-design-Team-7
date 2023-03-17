@@ -5,6 +5,23 @@
 <details>
 <summary> Click to expand </summary>
 
+- [Level Design - SpaceForm](#level-design---spaceform)
+  - [Table of Contents](#table-of-contents)
+  - [Summary](#summary)
+    - [Level design core principles](#level-design-core-principles)
+    - [Level design](#level-design)
+      - [Lighting](#lighting)
+      - [Characters](#characters)
+      - [Information](#information)
+      - [Story](#story)
+      - [Worldbuilding](#worldbuilding)
+    - [Level Design - Tutorial](#level-design---tutorial)
+    - [Level Design - Goals](#level-design---goals)
+    - [Level Design - Rules](#level-design---rules)
+    - [Level design - Rewards](#level-design---rewards)
+    - [Level Design - Camera](#level-design---camera)
+    - [Game visual hierarchy](#game-visual-hierarchy)
+
 </details>
 
 ## Summary 
@@ -86,10 +103,10 @@ The level will be constructed as the following:
 
 - The player enters as a parasite through the pipe, 
 - The player is behind a "jumper" with a wall in front of him, 
-- The player takes over the jumper and jump over the wall, 
+- The player takes over the jumper and jumps over the wall, 
 - (Bonus) if the player jumps on the wall he will be able to jump a second time to reach a star,
 - The player sees a "planer" with a hole in front of him, 
-- The player takes over the planner and plan to the other side of the hole,
+- The player takes over the planner and plans to the other side of the hole,
 - (fail) if the player fails to plan he will fall into the hole and respawn at the beginning of the level, 
 
 
@@ -102,7 +119,7 @@ The goal of each level is to teach the player new mechanics, entertain him by gi
 The rules of the level design are the following:
 
 - The player must be satisfied with the mechanics and the level design, his movements must be fluid and the level must be fun to play, 
-- Take into consideration the metrics, the jump mechanics should be sufficient to not be "pixel perfect", the platforms width should be big enough, movement speeds, and so on,
+- Take into consideration the metrics, the jump mechanics should be sufficient to not be "pixel perfect", the width of the platform should be big enough, movement speeds, and so on,
 - Rhythm and pacing, the purpose of the game is to entertain the player with a fast-paced game, if at any point we reduce the speed of the game we need to make sure that the player is not bored, 
 - For the difficulty curve we will follow the "flow" theory, the player will be able to learn the mechanics and practice them, then he will be able to apply them in a more complex situation, then he will be able to use them in a more complex situation, and so on.
 - Save, the game will have checkpoints at the end of each level, the player will be able to save his progress at any time and quit the game, the game will also have a "continue" option,
