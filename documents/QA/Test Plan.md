@@ -205,7 +205,6 @@ For the following tests, since we are going to develop a game, we are going to l
   - [ ] The user is not frustrated by the level design
   - [ ] The user is not frustrated by the level difficulty
 
-
 Unreal Engine also provides a lot of [tools](https://docs.unrealengine.com/4.26/en-US/TestingAndOptimization/) to monitor the game's performance, unit tests, stress tests and so on. We are going to use these tools to check the proper functioning of the game. 
 
 We are also going to use a built-in script to check the response time from the user's input to the game's reaction.
