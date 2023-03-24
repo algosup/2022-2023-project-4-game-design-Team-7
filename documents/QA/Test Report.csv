@@ -1,4 +1,4 @@
-Issue Number,Type of issue,Date of discovery,Importance level,Environment,Steps to reproduce,why?,How to fix(if known),Status
+Issue Number,Type of issue,Date of discovery,Importance level,Environment,Steps to reproduce,Result,How to fix(if known),Status
 1,The axis of the slingshot is not axed,2023-09-03,1,Any,1. Take over an alien 2. Touch the slingshot with the alien 3. The slingshot rolls,The axis is not blocked,Block the axis of the slingshot,Yes
 2,The slingshot can jump in the air,2023-09-03,1,Any,1. Take over the slingshot 2. Use the capabilities of the slingshot 3. Use it again in the air,The slingshot can make multiple jumps ,The slingshot needs to be fixed on the ground to jump,Yes
 3,Remove the slow-motion when you get out of the slingshot,2023-08-03,2,Any,1. Take over the slingshot. 2. Get out of it while you are in the air,The player keep being slowed down when he gets out of the slingshot in the air,When you get out of the worm the state of the parasite is reset,Yes
