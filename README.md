@@ -12,3 +12,4 @@ This is a fast paced platformer. You play as a space parasite taking over aliens
 - [Critical Path](./documents/Management/Critical%20Path.pdf)
 - [Trello](https://trello.com/b/EMos59Vb/planing)
 - [Test Plan](./documents/QA/Test%20Plan.md)
+- [Live bug report](https://colab.research.google.com/drive/1aK2gDs9vY5urSFTywPMcFIGaqm_NfsDr?usp=sharing)
