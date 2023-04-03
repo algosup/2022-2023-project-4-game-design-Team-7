@@ -13,6 +13,16 @@ There is also the [Test Report](Test%20Report.csv) that will contain a list of a
 The test report is a csv file that contains the following information: 
 | Bug ID | Bug Description | Severity | Platform | Steps to reproduce | Actual result | Expected result | How to fix(if known) | Status |
 
+Bug ID: The ID of the bug found
+Bug Description: A short description of the bug
+Severity: The severity of the bug rated from 1 to 3 (1 being a minor bug and 3 being a critical bug)
+Platform: The platform on which the bug can be reproduced
+Steps to reproduce: The steps to reproduce the bug
+Actual result: The actual result of the bug
+Excepted result: The expected result of the action
+How to fix(if known): How to fix the bug if known 
+Status: The status of the bug (Fixed/Not Fixed)
+
 It will be updated as we find new bugs and fix them during the development process.
 
 On top of that, we will be using the [Bug Report Template](Bug%20Report%20Template.md) to report the bugs discovered directly on github.
