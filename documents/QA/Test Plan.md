@@ -15,13 +15,21 @@ The test report is a csv file that contains the following information:
 
 Bug ID: The ID of the bug found
 Bug Description: A short description of the bug
-Severity: The severity of the bug rated from 1 to 3 (1 being a minor bug and 3 being a critical bug)
+Severity: The severity of the bug rated from 1 to 3 
 Platform: The platform on which the bug can be reproduced
 Steps to reproduce: The steps to reproduce the bug
 Actual result: The actual result of the bug
 Excepted result: The expected result of the action
 How to fix(if known): How to fix the bug if known 
 Status: The status of the bug (Fixed/Not Fixed)
+
+### Severity level 
+
+| Severity | Description |
+| --- | --- |
+| 1 | The bug is a minor bug that does not affect the game's functionality |
+| 2 | The bug is a major bug that affects the game's functionality but does not affect the game's core gameplay |
+| 3 | The bug is a critical bug that affects the game's core gameplay 
 
 It will be updated as we find new bugs and fix them during the development process.
 
@@ -37,6 +45,7 @@ Click to expand
 
 - [Test Plan SpaceForm](#test-plan-spaceform)
   - [Test report template](#test-report-template)
+    - [Severity level](#severity-level)
   - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
     - [Compatibility Operating System](#compatibility-operating-system)
