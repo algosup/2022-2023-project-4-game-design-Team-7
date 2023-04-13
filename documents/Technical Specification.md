@@ -22,6 +22,11 @@
     - [Audio editor:](#audio-editor)
   - [XI. Functionalities:](#xi-functionalities)
   - [XII. Game Species Specifics:](#xii-game-species-specifics)
+    - [1. Parasite:](#1-parasite)
+    - [2. Jumper:](#2-jumper)
+    - [3. Grappler:](#3-grappler)
+    - [4. Wall Jumper:](#4-wall-jumper)
+    - [5. Slingshot:](#5-slingshot)
   - [XIII. Features and technical descriptions:](#xiii-features-and-technical-descriptions)
 
 ## I. General
@@ -141,6 +146,28 @@ The inputs should be ZQSD / WASD / Arrow keys for movement, Space for jump, righ
 here is a list of the species that will be in the game and their abilities.
 
 [Species Specifications](https://docs.google.com/spreadsheets/d/19qRGx0SFPaTOHf04cnJs4SdGVmXDKTO3_Sj5BQFv2pw/edit?usp=sharing)
+
+### 1. Parasite:
+
+the parasite should use an Actor Pawn with a 2D sprite as a child. It should have two collision boxes, one for the parasite physics and one for the detection of ground.
+
+All the species should have a parasite throw ability that will be used to take over other species. It should be done with the projectile throw node which is built in. The path should be predicted and then materialised using rounded 2d sprites (angry birds style). The projectile should become red when it hits a wall.
+
+### 2. Jumper:
+
+jumper is a species that can jump high and far. It should be able to jump from the floor. To do so we can use the jump option of the character controller. It should be able to move like the parasite.
+
+### 3. Grappler:
+
+grappler is a species that can use the grapple hook to move around. It should be able to move like the parasite. It is not able to jump. To do so the physic constraint component coupled with the cable component can be used.
+
+### 4. Wall Jumper:
+
+wall jumper is a species that can jump from the floor and the walls. It should be able to move like the parasite.
+
+### 5. Slingshot:
+
+slingshot is a species that uses a mechanic close to the one to throw the parasite but with inverted controls. It should NOT be able to move or jump without throwing itself.
 
 ## XIII. Features and technical descriptions:
 
