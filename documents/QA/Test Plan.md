@@ -8,7 +8,34 @@ Since we are creating a game for PC, we will be testing the game on a Windows 10
 
 There is also the [Test Report](Test%20Report.csv) that will contain a list of all the bugs found during the development process.
 
+## Test report template 
+
+The test report is a csv file that contains the following information: 
+| Bug ID | Bug Description | Severity | Platform | Steps to reproduce | Actual result | Expected result | How to fix(if known) | Status |
+
+Bug ID: The ID of the bug found
+Bug Description: A short description of the bug
+Severity: The severity of the bug rated from 1 to 3 
+Platform: The platform on which the bug can be reproduced
+Steps to reproduce: The steps to reproduce the bug
+Actual result: The actual result of the bug
+Excepted result: The expected result of the action
+How to fix(if known): How to fix the bug if known 
+Status: The status of the bug (Fixed/Not Fixed)
+
+### Severity level 
+
+| Severity | Description |
+| --- | --- |
+| 1 | The bug is a minor bug that does not affect the game's functionality |
+| 2 | The bug is a major bug that affects the game's functionality but does not affect the game's core gameplay |
+| 3 | The bug is a critical bug that affects the game's core gameplay 
+
+It will be updated as we find new bugs and fix them during the development process.
+
 On top of that, we will be using the [Bug Report Template](Bug%20Report%20Template.md) to report the bugs discovered directly on github.
+
+Also to simplify the process of finding reported bugs and their status for our development team, we will be using the [Test Report Analysis](./Test%20Report%20Analysis.ipynb) notebook to generate a table of all the bugs found and their status and it will be available in a online notebook viewer [here](https://colab.research.google.com/drive/1aK2gDs9vY5urSFTywPMcFIGaqm_NfsDr?usp=sharing).
 
 ## Table of Contents
 <details>
@@ -17,6 +44,8 @@ Click to expand
 </summary>
 
 - [Test Plan SpaceForm](#test-plan-spaceform)
+  - [Test report template](#test-report-template)
+    - [Severity level](#severity-level)
   - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
     - [Compatibility Operating System](#compatibility-operating-system)
@@ -205,6 +234,7 @@ For the following tests, since we are going to develop a game, we are going to l
   - [ ] The user is not frustrated by the level design
   - [ ] The user is not frustrated by the level difficulty
 
+Most of these tests are going to be done either on the definitive levels or on a sandbox level to test each feature of the game separately. 
 
 Unreal Engine also provides a lot of [tools](https://docs.unrealengine.com/4.26/en-US/TestingAndOptimization/) to monitor the game's performance, unit tests, stress tests and so on. We are going to use these tools to check the proper functioning of the game. 
 
